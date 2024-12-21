@@ -1,5 +1,5 @@
 # Hello 👋,
-> My name is ***Tanishq*** !  I'm currently a Student Preparing For **IIT-JEE**
+> My name is ***Tanishq*** !  I'm currently a 12th Grade Student Preparing For **IIT-JEE**
 
 - 🧑🏻‍💻I’m currently learning Web-dev
 - 📧Contact me through Email
