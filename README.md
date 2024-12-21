@@ -1,11 +1,12 @@
 # Hello 👋,
-> My name is Tanishq!  I'm currently a Student Preparing For **IIT-JEE**
+> My name is ***Tanishq***!  I'm currently a Student Preparing For **IIT-JEE**
 
 - 🧑🏻‍💻I’m currently learning Web-dev
 - 💬Ask Me About-anything
+- 📧Contact me through Email
 
 
-I post about [my projects, tech, and other interesting stuff on (X)] (https://x.com/TanishqJain). Feel free to Check it out, don't hesitate to reach out Me!
+I post about [my projects,Tech, and other interesting stuff on (X)](https://x.com/TanishqJain). Feel free to Check it out, don't hesitate to reach out Me!
 
 ---
 
