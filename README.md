@@ -1,9 +1,9 @@
 # Hello 👋,
-> My name is ***Tanishq***!  I'm currently a Student Preparing For **IIT-JEE**
+> My name is ***Tanishq*** !  I'm currently a Student Preparing For **IIT-JEE**
 
 - 🧑🏻‍💻I’m currently learning Web-dev
-- 💬Ask Me About-anything
 - 📧Contact me through Email
+- 💬Ask Me About-anything
 
 
 I post about [my projects,Tech, and other interesting stuff on X](https://x.com/TanishqJain). Feel free to Check it out, don't hesitate to reach out Me!
@@ -29,7 +29,7 @@ I post about [my projects,Tech, and other interesting stuff on X](https://x.com/
 
 # Socials
 <p align="left">
-<a href="https://x.com/TanishqJain" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="tanishqjain" height="30" width="40" /></a>
+<a href="https://x.com/TanishqJain" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="tanishqjain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-tanishq" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanishqjain" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tanishq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tanishqjain" height="30" width="40" /></a>
