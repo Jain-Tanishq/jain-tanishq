@@ -1,4 +1,4 @@
-# Hello 👋,
+# Hello 👋
 > My name is ***Tanishq*** !  I'm currently a 12th Grade Student Preparing For **IIT-JEE**
 
 - 🧑🏻‍💻I’m currently learning Web-dev
